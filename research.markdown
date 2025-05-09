@@ -25,7 +25,7 @@ order: 2
 </div>
 
 <ul style="list-style-type:none;">
-<li><b style="font-weight: 600; font-size: 18px"> Competition in the Markets for Higher Education </b>
+<li><b style="font-weight: 600; font-size: 18px"> University Finances and Optimal Tuition Policy </b>
      <br> 
          <p style="margin-left: 20px; max-width: 1000px"> <span style="font-size: 14px;"> <a style="color: blue" href="{{ site.baseurl }}/assets/LinFan_LSE_JMP.pdf" target="_blank">[Paper Link]</a> </span><br> <strong>Abstract:</strong> TBD </p> </li>
 </ul>
